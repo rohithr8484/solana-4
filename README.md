@@ -1,8 +1,4 @@
-# Reown AppKit Example using Solana (Vite + Vue)
-
-This is a [Vite](https://vitejs.dev) project together with Vue.
-
-## Usage
+# Reown AppKit app using Solana (Vite + Vue)
 
 1. Go to [Reown Cloud](https://cloud.reown.com) and create a new project.
 2. Copy your `Project ID`
